@@ -1,2 +1,19 @@
 * Measure Show Learn
-**
+** Measurement
+*** Danger
+**** Hawthorne effect http://en.wikipedia.org/wiki/Hawthorne_effect
+**** Cognitive biases
+ + Confirmation bias
+ + Neglect of probability http://en.wikipedia.org/wiki/Neglect_of_probability
+ + Framing http://en.wikipedia.org/wiki/Framing_(social_sciences)
+ + Anchoring http://en.wikipedia.org/wiki/Anchoring
+ + Fundamental attribution error http://en.wikipedia.org/wiki/Fundamental_attribution_error
+ + Observer-Expectancy Effect http://en.wikipedia.org/wiki/Observer-expectancy_effect (http://www.youtube.com/watch?v=0bG7EFhMw8w)
+*** Leading vs Trailing
+** Visualisation
+*** Code
+*** Work
+*** System
+*** Customers
+** Learning
+*** Behaviour
