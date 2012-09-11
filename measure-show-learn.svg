@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.2407734"
-     inkscape:cx="-25031.27"
-     inkscape:cy="-6816.918"
+     inkscape:zoom="0.16"
+     inkscape:cx="1808.8852"
+     inkscape:cy="-1279.2947"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3751,6 +3751,46 @@
        height="44.332279"
        x="-25063.482"
        y="7837.4106" />
+    <text
+       xml:space="preserve"
+       style="font-size:861.64703369px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Semi-Bold"
+       x="819.1062"
+       y="1759.5255"
+       id="text22314"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan22316"
+         x="819.1062"
+         y="1759.5255">Sense</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:231.16377258px;font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Light Italic"
+       x="1508.1588"
+       y="2062.3364"
+       id="text22318"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan22320"
+         x="1508.1588"
+         y="2062.3364">Record</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:238.2355957px;font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Light Italic"
+       x="1660.7975"
+       y="2330.2092"
+       id="text22322"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan22324"
+         x="1660.7975"
+         y="2330.2092">Sample</tspan></text>
+    <rect
+       style="opacity:0.39506172;color:#000000;fill:#280b0b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect22326"
+       width="3087.5"
+       height="1806.25"
+       x="437.5"
+       y="871.11218" />
   </g>
   <g
      sodipodi:insensitive="true"
@@ -18583,7 +18623,7 @@
   </g>
   <ns1:frame
      ns1:refid="rect3179"
-     ns1:sequence="14"
+     ns1:sequence="15"
      id="frame1"
      ns1:transition-duration-ms="3000.0"
      ns1:hide="true"
@@ -18603,7 +18643,7 @@
      ns1:hide="true"
      ns1:transition-duration-ms="30000.0"
      id="frame2"
-     ns1:sequence="15"
+     ns1:sequence="16"
      ns1:refid="rect3179-6" />
   <ns1:frame
      ns1:transition-profile="accelerate-decelerate"
@@ -18615,11 +18655,11 @@
      ns1:hide="true"
      ns1:transition-duration-ms="3000.0"
      id="frame3"
-     ns1:sequence="18"
+     ns1:sequence="19"
      ns1:refid="rect3179-4" />
   <ns1:frame
      ns1:refid="rect3179-4-7-2"
-     ns1:sequence="16"
+     ns1:sequence="17"
      id="frame5"
      ns1:transition-duration-ms="3000.0"
      ns1:hide="true"
@@ -18639,7 +18679,7 @@
      ns1:hide="true"
      ns1:transition-duration-ms="3000.0"
      id="frame6"
-     ns1:sequence="17"
+     ns1:sequence="18"
      ns1:refid="rect3179-4-4" />
   <ns1:frame
      ns1:transition-profile="strong-decelerate"
@@ -18651,7 +18691,7 @@
      ns1:hide="true"
      ns1:transition-duration-ms="2000.0"
      id="frame7"
-     ns1:sequence="13"
+     ns1:sequence="14"
      ns1:refid="rect3179-4-7-3" />
   <ns1:frame
      ns1:refid="rect3179-2"
@@ -18679,7 +18719,7 @@
      ns1:transition-profile="linear" />
   <ns1:frame
      ns1:refid="rect97019"
-     ns1:sequence="12"
+     ns1:sequence="13"
      id="frame10"
      ns1:transition-duration-ms="2000.0"
      ns1:hide="true"
@@ -18691,7 +18731,7 @@
      ns1:transition-profile="strong-decelerate" />
   <ns1:frame
      ns1:refid="rect25006"
-     ns1:sequence="11"
+     ns1:sequence="12"
      id="frame11"
      ns1:transition-duration-ms="3000.0"
      ns1:hide="true"
@@ -18705,13 +18745,13 @@
      ns1:transition-profile="linear"
      ns1:timeout-enable="false"
      ns1:timeout-ms="5000.0"
-     ns1:transition-zoom-percent="0.0"
+     ns1:transition-zoom-percent="-100"
      ns1:title="++ What can I measure?"
      ns1:clip="false"
      ns1:hide="true"
-     ns1:transition-duration-ms="1000.0"
+     ns1:transition-duration-ms="3000"
      id="frame12"
-     ns1:sequence="3"
+     ns1:sequence="4"
      ns1:refid="rect20635" />
   <ns1:frame
      ns1:transition-profile="decelerate"
@@ -18723,7 +18763,7 @@
      ns1:hide="true"
      ns1:transition-duration-ms="2000.0"
      id="frame13"
-     ns1:sequence="4"
+     ns1:sequence="5"
      ns1:refid="rect33855" />
   <ns1:frame
      ns1:transition-profile="decelerate"
@@ -18735,7 +18775,7 @@
      ns1:hide="true"
      ns1:transition-duration-ms="1500.0"
      id="frame14"
-     ns1:sequence="6"
+     ns1:sequence="7"
      ns1:refid="rect47282" />
   <ns1:frame
      ns1:transition-profile="strong-accelerate"
@@ -18747,11 +18787,11 @@
      ns1:hide="true"
      ns1:transition-duration-ms="1500.0"
      id="frame15"
-     ns1:sequence="5"
+     ns1:sequence="6"
      ns1:refid="rect20635-4" />
   <ns1:frame
      ns1:refid="rect20635-4-5"
-     ns1:sequence="7"
+     ns1:sequence="8"
      id="frame16"
      ns1:transition-duration-ms="1500.0"
      ns1:hide="true"
@@ -18771,7 +18811,7 @@
      ns1:hide="true"
      ns1:transition-duration-ms="1500.0"
      id="frame17"
-     ns1:sequence="8"
+     ns1:sequence="9"
      ns1:refid="rect101551" />
   <ns1:frame
      ns1:transition-profile="strong-accelerate"
@@ -18783,11 +18823,11 @@
      ns1:hide="true"
      ns1:transition-duration-ms="1000.0"
      id="frame18"
-     ns1:sequence="9"
+     ns1:sequence="10"
      ns1:refid="rect20635-0" />
   <ns1:frame
      ns1:refid="rect122532"
-     ns1:sequence="10"
+     ns1:sequence="11"
      id="frame19"
      ns1:transition-duration-ms="1500.0"
      ns1:hide="true"
@@ -18799,7 +18839,7 @@
      ns1:transition-profile="strong-decelerate" />
   <ns1:frame
      ns1:refid="rect6508"
-     ns1:sequence="19"
+     ns1:sequence="20"
      id="frame20"
      ns1:transition-duration-ms="7000.0"
      ns1:hide="true"
@@ -18819,11 +18859,11 @@
      ns1:hide="true"
      ns1:transition-duration-ms="2000.0"
      id="frame21"
-     ns1:sequence="20"
+     ns1:sequence="21"
      ns1:refid="rect14501" />
   <ns1:frame
      ns1:refid="rect21629"
-     ns1:sequence="22"
+     ns1:sequence="23"
      id="frame22"
      ns1:transition-duration-ms="2000.0"
      ns1:hide="true"
@@ -18835,7 +18875,7 @@
      ns1:transition-profile="decelerate" />
   <ns1:frame
      ns1:refid="rect35800"
-     ns1:sequence="23"
+     ns1:sequence="24"
      id="frame23"
      ns1:transition-duration-ms="2000.0"
      ns1:hide="true"
@@ -18945,7 +18985,7 @@ return chart;
   <ns1:frame
      ns1:refid="rect13707"
      ns1:title="++++ Self-explanatory"
-     ns1:sequence="24"
+     ns1:sequence="25"
      ns1:hide="true"
      ns1:clip="false"
      ns1:timeout-enable="false"
@@ -18957,7 +18997,7 @@ return chart;
   <ns1:frame
      ns1:refid="rect29298"
      ns1:title="++++ Colour Theory"
-     ns1:sequence="25"
+     ns1:sequence="26"
      ns1:hide="true"
      ns1:clip="false"
      ns1:timeout-enable="false"
@@ -18975,7 +19015,7 @@ return chart;
      ns1:timeout-enable="false"
      ns1:clip="false"
      ns1:hide="true"
-     ns1:sequence="28"
+     ns1:sequence="29"
      ns1:title="++++ CFD"
      ns1:refid="cfd-8" />
   <ns1:frame
@@ -18987,13 +19027,13 @@ return chart;
      ns1:timeout-enable="false"
      ns1:clip="false"
      ns1:hide="true"
-     ns1:sequence="21"
+     ns1:sequence="22"
      ns1:title="+++ Share and Compare"
      ns1:refid="rect22444" />
   <ns1:frame
      ns1:refid="rect14501"
      ns1:title="+++ Explore"
-     ns1:sequence="27"
+     ns1:sequence="28"
      ns1:hide="true"
      ns1:clip="false"
      ns1:timeout-enable="true"
@@ -19005,7 +19045,7 @@ return chart;
   <ns1:frame
      ns1:refid="rect88812"
      ns1:title="+ Learn"
-     ns1:sequence="30"
+     ns1:sequence="31"
      ns1:hide="true"
      ns1:clip="false"
      ns1:timeout-enable="false"
@@ -19017,7 +19057,7 @@ return chart;
   <ns1:frame
      ns1:refid="rect6508"
      ns1:title="+ Show"
-     ns1:sequence="29"
+     ns1:sequence="30"
      ns1:hide="true"
      ns1:clip="false"
      ns1:timeout-enable="true"
@@ -19029,7 +19069,7 @@ return chart;
   <ns1:frame
      ns1:refid="rect6688"
      ns1:title="++++ Example"
-     ns1:sequence="26"
+     ns1:sequence="27"
      ns1:hide="true"
      ns1:clip="false"
      ns1:timeout-enable="false"
@@ -19038,4 +19078,16 @@ return chart;
      ns1:transition-zoom-percent="0.0"
      ns1:transition-profile="accelerate-decelerate"
      id="frame30" />
+  <ns1:frame
+     ns1:refid="rect22326"
+     ns1:title="++ Sense"
+     ns1:sequence="3"
+     ns1:hide="true"
+     ns1:clip="false"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-duration-ms="3000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:transition-profile="decelerate-accelerate"
+     id="frame31" />
 </svg>
