@@ -24,16 +24,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.16"
-     inkscape:cx="1808.8852"
-     inkscape:cy="-1279.2947"
+     inkscape:zoom="256"
+     inkscape:cx="7811.4773"
+     inkscape:cy="11846.701"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1262"
-     inkscape:window-height="782"
-     inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-width="1660"
+     inkscape:window-height="1048"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      showborder="false"
      inkscape:showpageshadow="false"
@@ -573,6 +573,27 @@
      inkscape:label="Layer 1"
      style="display:inline">
     <rect
+       y="-8406.2939"
+       x="9511.7061"
+       height="2829.9094"
+       width="4448.7007"
+       id="rect20635-0"
+       style="opacity:0.16049386;color:#000000;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="matrix(0.95104362,-0.30905667,0.30905667,0.95104362,0,0)" />
+    <rect
+       style="color:#000000;fill:#0000ff;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect97019"
+       width="3855.7861"
+       height="2782.707"
+       x="2019.6006"
+       y="-11009.62"
+       transform="matrix(0.88757545,-0.46066237,0.46066237,0.88757545,0,0)" />
+    <path
+       style="opacity:0.86831276;color:#000000;fill:#ffffff;stroke:#000000;stroke-width:15.88849163;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -2686.8398,-9274.8112 958.2544,-2305.4258 649.5963,1251.602 -958.2543,2305.4262 z"
+       id="rect96875"
+       inkscape:connector-curvature="0" />
+    <rect
        style="opacity:0.39506172;color:#000000;fill:#280b0b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect22326"
        width="3087.5"
@@ -723,19 +744,6 @@
        width="1.7460938"
        id="rect33855"
        style="opacity:0.16049386;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <rect
-       style="color:#000000;fill:#0000ff;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect97019"
-       width="3855.7861"
-       height="2782.707"
-       x="2019.6006"
-       y="-11009.62"
-       transform="matrix(0.88757545,-0.46066237,0.46066237,0.88757545,0,0)" />
-    <path
-       style="opacity:0.86831276;color:#000000;fill:#ffffff;stroke:#000000;stroke-width:15.88849163;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -2686.8398,-9274.8112 958.2544,-2305.4258 649.5963,1251.602 -958.2543,2305.4262 z"
-       id="rect96875"
-       inkscape:connector-curvature="0" />
     <g
        transform="matrix(44.207631,-22.944295,22.944295,44.207631,676155.67,183090.5)"
        id="text96826"
@@ -2166,10 +2174,10 @@
     </g>
     <a
        id="a94558"
-       xlink:href="http://www.amazon.co.uk/Competitive-Engineering-Handbook-Requirements-Planguage/dp/0750665076/"
        target="_new"
        xlink:title="Amazon: Competitive Engineering: A Handbook For Systems Engineering, Requirements Engineering, and Software Engineering Using Planguage by Tom Gilb"
-       transform="matrix(0.34254095,0,0,0.34254095,5136.0712,-7097.2143)">
+       transform="matrix(0.34254095,0,0,0.34254095,5136.0712,-7097.2143)"
+       xlink:href="http://www.amazon.co.uk/gp/product/0750665076/ref=as_li_ss_tl?ie=UTF8&amp;camp=1634&amp;creative=19450&amp;creativeASIN=0750665076&amp;linkCode=as2&amp;tag=tteggelorg-21">
       <image
          width="0.12971768"
          height="0.11934026"
@@ -2663,14 +2671,6 @@
          x="10018.788"
          id="tspan115451"
          sodipodi:role="line">CQM</tspan></text>
-    <rect
-       y="-8406.2939"
-       x="9511.7061"
-       height="2829.9094"
-       width="4448.7007"
-       id="rect20635-0"
-       style="opacity:0.16049386;color:#000000;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       transform="matrix(0.95104362,-0.30905667,0.30905667,0.95104362,0,0)" />
     <g
        style="font-size:3.35839605px;font-style:italic;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Light Italic"
        id="text122401"
@@ -3840,11 +3840,11 @@
     </g>
   </g>
   <g
-     sodipodi:insensitive="true"
      style="display:inline"
      inkscape:label="Frames"
      id="layer2"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <rect
        style="color:#000000;fill:#0000db;fill-opacity:0.1461187;stroke:none;stroke-width:345.12823486;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect48505"
@@ -18667,6 +18667,21 @@
        height="64.84375"
        x="-25119.531"
        y="7601.5811" />
+    <a
+       id="a6718"
+       xlink:href="http://www.amazon.co.uk/gp/product/0670921602/ref=as_li_ss_tl?ie=UTF8&amp;camp=1634&amp;creative=19450&amp;creativeASIN=0670921602&amp;linkCode=as2&amp;tag=tteggelorg-21"
+       xlink:title="Amazon: The Lean Startup: How Constant Innovation Creates Radically Successful Businesses"
+       target="_new">
+      <image
+         y="-7486.5547"
+         x="-7276.0581"
+         id="image60490-6-6-1-2"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAXCAYAAAD+4+QTAAAABHNCSVQICAgIfAhkiAAAAVlJREFU SInt1a9OXEEUx/HPIVUVXFQ1gjRpAl0QBFtVtyGpqUBhMbwDqe8jlDcgAR4ARUIN0DapbNN1KEDU npq59DLsLssfub/kZObO/Z5z5kwyc2QmNFjHF5wiKzvF58JMzGamzBSZKSIaXPqv38VgvtgojWQz M9r5esmc+ISP7Q5aq3afOChsM4bNTvUSgzL20a8dqyAP4QbImVLN1pjjeIq2YOY+6jk0TTJNMk1y v15U3xt4GxH71foZjorBGlYiYgfLQ9izOlH7FnWf6wFOig3cfc4nZfvIbiWHOMd3/K028hJL6OEV LiZkcfu4zrGAD3hTOX7FHxzjBxbxGu+xWrE/8a3EA1HKusZsBzzqzOfcPfdhan3eddZu4ib2sI3e iN7QbVq/ytg2pkRWfK/E20NGWXyUIuLGudtqK6Z5jnuyO+5nZl7V9+TBCTJzMyIuI6LJzKth0D+g 4d3PXjBjLAAAAABJRU5ErkJggg== "
+         height="73.9263"
+         width="80.354675"
+         style="display:inline"
+         transform="matrix(0.79144768,0.61123692,-0.61123692,0.79144768,0,0)" />
+    </a>
   </g>
   <ns1:frame
      ns1:refid="rect3179"
