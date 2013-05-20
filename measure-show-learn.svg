@@ -18948,10 +18948,10 @@
      ns1:timeout-enable="false"
      ns1:transition-profile="decelerate" />
   <script
-     xlink:href="https://raw.github.com/mbostock/d3/master/d3.v2.js"
+     xlink:href="https://raw.github.com/mbostock/d3/v2.10.3/d3.v2.js"
      id="d3-script" />
   <script
-     xlink:href="http://nvd3.com/nv.d3.js"
+     xlink:href="http://tteggel.org/measure-show-learn/js/vendor/nv.d3.js"
      id="nv-d3-script" />
   <script
      id="sozi-script"
@@ -18984,30 +18984,30 @@ function memberData() {
   {
     key: &quot;BSUG Members&quot;,
     values: [
-      { 
+      {
         &quot;label&quot; : &quot;Bath&quot; ,
         &quot;value&quot; : 74
-      } , 
-      { 
-        &quot;label&quot; : &quot;Bristol&quot; , 
+      } ,
+      {
+        &quot;label&quot; : &quot;Bristol&quot; ,
         &quot;value&quot; : 22
-      } , 
-      { 
-        &quot;label&quot; : &quot;London&quot; , 
+      } ,
+      {
+        &quot;label&quot; : &quot;London&quot; ,
         &quot;value&quot; : 8
       } ,
-      { 
-        &quot;label&quot; : &quot;Birmingham&quot; , 
+      {
+        &quot;label&quot; : &quot;Birmingham&quot; ,
         &quot;value&quot; : 2
-      } ,  
-     { 
-        &quot;label&quot; : &quot;Trowbridge&quot; , 
+      } ,
+     {
+        &quot;label&quot; : &quot;Trowbridge&quot; ,
         &quot;value&quot; : 2
-      } ,  
-      { 
-        &quot;label&quot; : &quot;Other&quot; , 
+      } ,
+      {
+        &quot;label&quot; : &quot;Other&quot; ,
         &quot;value&quot; : 28
-      } 
+      }
     ]
   }
   ];
@@ -19016,7 +19016,7 @@ function memberData() {
 
 </script>
   <script
-     id="cfd-script">d3.json(&quot;cfd.json&quot;, function (data) { 
+     id="cfd-script">d3.json(&quot;cfd.json&quot;, function (data) {
 
 nv.addGraph(function() {
  var chart = nv.models.stackedAreaChart()
